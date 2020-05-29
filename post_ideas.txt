@@ -1,0 +1,9 @@
+minimal vector class
+write ppm
+write tga
+write bmp
+sdl pixel paint
+3x3 matrix
+camera
+raytracing initial ray
+sphere intersection (algebraic)
